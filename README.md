@@ -4,10 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Junior Full stack developer
 ---------------------------
 
-🚀 Aspiring Full stack Developer | Passionate about Crafting Digital Experiences 🌐 | Open to Opportunities 🌟 👋 I'm Nikhil, a recent graduate with a strong foundation in Full stack Development, eager to contribute my skills to innovative projects. 🔍 Seeking Opportunities: Actively looking for entry-level roles that allow me to apply my skills, learn, and grow as a Full Stack Developer. 🤝 Collaboration: I believe in the power of collaboration and am excited about the prospect of working with talented teams to tackle real-world challenges. And I also contributed to some Open Source projects. Let's connect! I'm eager to engage with fellow developers, mentors, and professionals. Feel free to reach out for discussions on Full Stack Development, tech trends, or potential collaboration.
+🚀 Aspiring Full stack Developer | Passionate about Crafting Digital Experiences 🌐 | Open to Opportunities 🌟
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Nikhil](http://https://nikhil003.netlify.app/)
+* 🖥️  See my portfolio at [Nikhil](http://nikhil003.netlify.app/)
 * ✉️  You can contact me at [nikhilsa8590@gmail.com](mailto:nikhilsa8590@gmail.com)
 * 🚀  I'm currently working on [PriceRecon](http://github.com/Nikhil7282/priceRecon.git)
 * 🧠  I'm learning Next Js
@@ -32,7 +32,5 @@ Junior Full stack developer
 <a href="http://www.github.com/Nikhil7282"><img src="https://github-readme-stats.vercel.app/api?username=Nikhil7282&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nikhil7282's GitHub stats" /></a>
 
 <a href="http://www.github.com/Nikhil7282"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikhil7282&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-
 
 <a href="https://github.com/Nikhil7282" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nikhil7282&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
