@@ -7,7 +7,7 @@ Junior Full stack developer
 🚀 Aspiring Full stack Developer | Passionate about Crafting Digital Experiences 🌐 | Open to Opportunities 🌟
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [Nikhil](http://nikhil003.netlify.app/)
+* 🖥️  See my portfolio at [Nikhil](https://nikhil7282.netlify.app/)
 * ✉️  You can contact me at [nikhilsa8590@gmail.com](mailto:nikhilsa8590@gmail.com)
 * 🚀  I'm currently working on [PriceRecon](http://github.com/Nikhil7282/priceRecon.git)
 * 🧠  I'm learning Next Js
