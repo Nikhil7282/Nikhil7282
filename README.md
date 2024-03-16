@@ -1,6 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Nikhil
 ==============================================================================================================================
-![](https://komarev.com/ghpvc/?username=Nikhil7282&style=for-the-badge)
+[![](https://visitcount.itsvg.in/api?id=Nikhil7282&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 Freasher
 ---------------------------
