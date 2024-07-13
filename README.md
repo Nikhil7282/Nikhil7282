@@ -10,9 +10,8 @@ Freasher
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [Nikhil](https://nikhil7282.netlify.app/)
 * ✉️  You can contact me at [nikhilsabbz@gmail.com](mailto:nikhilsabbz@gmail.com)
-* 🚀  I'm currently working on [xost](https://github.com/Nikhil7282/xost-client.git)
 * 🧠  I'm learning Next Js
-* 🤝  I'm open to collaborating on JavaScript and Typescript Projects
+* 🤝  I'm open to collaborating 
 
 ### Skills
 
