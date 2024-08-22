@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ==============================================================================================================================
 [![](https://visitcount.itsvg.in/api?id=Nikhil7282&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
-Freasher
+Fresher
 ---------------------------
 
 🚀 Aspiring Full stack Developer | Passionate about Crafting Digital Experiences 🌐 | Open to Opportunities 🌟
