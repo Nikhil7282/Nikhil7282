@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Nikhil
+Hi I'm Nikhil
 ==============================================================================================================================
 [![](https://visitcount.itsvg.in/api?id=Nikhil7282&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
