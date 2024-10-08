@@ -1,4 +1,3 @@
-==============================================================================================================================
 [![](https://visitcount.itsvg.in/api?id=Nikhil7282&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
 Fresher
