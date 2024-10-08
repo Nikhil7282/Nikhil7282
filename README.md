@@ -1,4 +1,3 @@
-Hi, I'm Nikhil
 ==============================================================================================================================
 [![](https://visitcount.itsvg.in/api?id=Nikhil7282&label=Profile%20Views&color=12&pretty=false)](https://visitcount.itsvg.in)
 
@@ -7,7 +6,6 @@ Fresher
 
 🚀 Aspiring Full stack Developer | Passionate about Crafting Digital Experiences 🌐 | Open to Opportunities 🌟
 
-* 🌍  I'm based in India
 * 🖥️  See my portfolio at [Nikhil](https://nikhil7282.netlify.app/)
 * ✉️  You can contact me at [nikhilsabbz@gmail.com](mailto:nikhilsabbz@gmail.com)
 
